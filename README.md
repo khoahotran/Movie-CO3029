@@ -14,6 +14,7 @@ This project analyzes the TMDB (The Movie Database) dataset, focusing on film tr
 ## Usage
 
 1. Clone this repository:
+
    ```
    git clone https://github.com/khoahotran/Movie-CO3029
    ```
@@ -25,10 +26,11 @@ This project analyzes the TMDB (The Movie Database) dataset, focusing on film tr
 ## Directory Structure
 
 ```
-├── images/                         # Generated charts and visualizations
-|-- CO3029___Data_Mining.pdf        # Report
-├── datamining-tmdb-movie.ipynb     # Notebook
-└── README.md                       # This file
+├── images/                            # Generated charts and visualizations
+├── Film-Industry-Analysis-with-LSTM/  # Images of slides
+├── CO3029___Data_Mining.pdf           # Report
+├── datamining-tmdb-movie.ipynb        # Notebook
+└── README.md                          # This file
 ```
 
 ## Key Findings
